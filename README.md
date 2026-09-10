@@ -8,7 +8,7 @@ The goal was to give managers a practical, visual way to review performance acro
 
 After I presented the original concept, regional leadership refined it and adapted a version for broader use across the region.
 
-![Employee Performance Dashboard Preview](Employee_Performance_Dashboard_Preview.jpg)
+![Employee Performance Dashboard Preview](Employee_Performance_Dashboard_Preview(1).png)
 
 ## Business Problem
 
